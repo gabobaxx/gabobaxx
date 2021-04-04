@@ -1,8 +1,9 @@
+<!-- 
 <p align="left"> 
   <a href="https://twitter.com/gabrielbca15" target="blank">
     <img src="https://img.shields.io/twitter/follow/gabrielbca15?logo=twitter&style=for-the-badge" alt="gabrielbca15" />
   </a> 
-</p>
+</p> -->
 
 <h1 align="left">Hi 👋, I'm Gabriel 🚀.</h1>
 <h3 align="left">A passionate programmer from Venezuela.</h3>
