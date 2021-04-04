@@ -1,13 +1,15 @@
-<h1 align="left">Hi 👋, I'm Gabriel 🚀.</h1>
-<h3 align="left">A passionate programmer from Venezuela.</h3>
-
-I am a future systems engineer who loves to learn new things and discover new passions, friends and incredible places. I like to contribute to the growth and advancement of civilization. Some technologies I enjoy working with include modern software and methodologies like Graphql, React, Jamstack.
-
 <p align="left"> 
   <a href="https://twitter.com/gabrielbca15" target="blank">
     <img src="https://img.shields.io/twitter/follow/gabrielbca15?logo=twitter&style=for-the-badge" alt="gabrielbca15" />
   </a> 
 </p>
+
+<h1 align="left">Hi 👋, I'm Gabriel 🚀.</h1>
+<h3 align="left">A passionate programmer from Venezuela.</h3>
+
+I am a future systems engineer who loves to learn new things and discover new passions, friends and incredible places. I like to contribute to the growth and advancement of civilization. Some technologies I enjoy working with include modern software and methodologies like Graphql, React, Jamstack. 
+
+
 
 - 🌱 I’m currently learning **Gatsby and Graphql.**
 
