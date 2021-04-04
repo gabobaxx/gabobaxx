@@ -51,7 +51,7 @@ I am a future systems engineer who loves to learn new things and discover new pa
   </ul>
 </p>
 
-## Some Technologies I frequently use.
+## Some Technologies I frequently use 💻.
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
