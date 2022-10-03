@@ -6,24 +6,24 @@
 </p> -->
 
 <h1 align="left">Hi 👋, I'm Gabriel 🚀.</h1>
-<h3 align="left">A passionate programmer from Venezuela 🇻🇪.</h3>
+<h3 align="left">A solution maker from Venezuela 🇻🇪.</h3>
 
-I am a future systems engineer who loves to learn new things and discover new passions, friends and incredible places. I like to contribute to the growth and advancement of civilization. Some technologies I enjoy working with include modern software and methodologies like Graphql, React, Jamstack. 
+Engineer who loves to contribute to the growth and advancement of civilization. Some technologies I enjoy working with include modern software and methodologies like React, Remix, Nextjs, Graphql, Deno and more... and remember, make solutions and stay away from problems.
 
-
-
-- 🌱 I’m currently building my personal **[website](https://testing-gaboland.vercel.app)**.
-
+- 🦁 Visit <a href="https://gabo.land" target="blank">my land</a>.
+- 💼 Connect with me on  <a href="https://linkedin.com/in/gabrielbencomo" target="blank">linkedin</a>.
 - 💬 Ask me about **web development.**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!--
 ## Find me around the web 🌎: 
 
 <p align="left">
   <ul>
+
     <li>
       Sharing updates 💼 on
       <a href="https://linkedin.com/in/gabrielbencomo" target="blank">
@@ -42,6 +42,7 @@ I am a future systems engineer who loves to learn new things and discover new pa
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gabrielbencomo" height="30" width="40" />
       </a>
     </li>
+   
     <li>
       Writing ✍️ and sharing nice content on 
       <a href="https://twitter.com/gabrielbca15" target="blank">
@@ -50,6 +51,7 @@ I am a future systems engineer who loves to learn new things and discover new pa
     </li>
   </ul>
 </p>
+ -->
 
 <!--
 ### Hi there 👋
