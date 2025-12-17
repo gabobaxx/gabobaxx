@@ -1,18 +1,38 @@
-<!-- 
-<p align="left"> 
-  <a href="https://twitter.com/gabrielbca15" target="blank">
-    <img src="https://img.shields.io/twitter/follow/gabrielbca15?logo=twitter&style=for-the-badge" alt="gabrielbca15" />
-  </a> 
-</p> -->
+> Building automatic Infrastructure, Platforms & Ecosystems for Scaling Business | Engineer & Solution Maker | Founder Gaboland, Terapist & Refribenco
+> 
 
-<h1 align="left">Hi 👋, I'm Gabriel 🚀.</h1>
-<h3 align="left">A solution maker from Venezuela 🇻🇪.</h3>
+> My goal is built automatic systems that help to scale a business of any industry in the shortest time possible with timeless techniques, without caring about the country or external events. All this with the help of technologies such as AI and decentralization to achieve the main goal.
+> 
 
-Engineer who loves to contribute to the growth and advancement of civilization. Some technologies I enjoy working with include modern software and methodologies like React, Remix, Nextjs, Graphql, Deno and more... and remember, make solutions and stay away from problems.
+> And now, I’m introducing myself, my name is Angel Gabriel Bencomo Alvarado, but you can call me Gabriel, I’m an engineer who likes make solutions with AI & Web development.
+> 
+
+> Connect with me and let’s chat to discover what my contribution is to you 🤗
+> 
+
+<aside>
+🧠 Philosophy: make solutions and stay away from problems.
+
+</aside>
+
+<aside>
+🦁 My land: [https://gabo.land](https://gabo.land/)
+
+</aside>
+
+<aside>
+🥶 Refrigeration industry project: [https://refribenco.com](https://refribenco.com/)
+
+</aside>
+
+<aside>
+🏥 Healthcare industry project: [https://terapist.cc](https://terapist.cc/)
+
+</aside>
+
 
 - 🦁 Visit <a href="https://gabo.land" target="blank">my land</a>.
 - 💼 Connect with me on  <a href="https://linkedin.com/in/gabrielbencomo" target="blank">linkedin</a>.
-- 💬 Ask me about **web development.**
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
