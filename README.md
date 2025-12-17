@@ -10,28 +10,10 @@
 > Connect with me and let’s chat to discover what my contribution is to you 🤗
 > 
 
-<aside>
-🧠 Philosophy: make solutions and stay away from problems.
-
-</aside>
-
-<aside>
-🦁 My land: [https://gabo.land](https://gabo.land/)
-
-</aside>
-
-<aside>
-🥶 Refrigeration industry project: [https://refribenco.com](https://refribenco.com/)
-
-</aside>
-
-<aside>
-🏥 Healthcare industry project: [https://terapist.cc](https://terapist.cc/)
-
-</aside>
-
-
+- 🧠 Philosophy: make solutions and stay away from problems.
 - 🦁 Visit <a href="https://gabo.land" target="blank">my land</a>.
+- 🥶 <a href="https://refribenco.com" target="blank">Refrigeration industry project</a>.
+- 🏥 <a href="https://terapist.deno.dev" target="blank">Healthcare industry project</a>.
 - 💼 Connect with me on  <a href="https://linkedin.com/in/gabrielbencomo" target="blank">linkedin</a>.
 
 <!-- ### Blogs posts -->
