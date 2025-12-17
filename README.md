@@ -12,8 +12,8 @@
 
 - 🧠 Philosophy: make solutions and stay away from problems.
 - 🦁 Visit <a href="https://gabo.land" target="blank">my land</a>.
-- 🥶 <a href="https://refribenco.com" target="blank">Refrigeration industry project</a>.
-- 🏥 <a href="https://terapist.deno.dev" target="blank">Healthcare industry project</a>.
+- 🥶 Visit <a href="https://refribenco.com" target="blank">refrigeration industry project</a>.
+- 🏥 Visit <a href="https://terapist.deno.dev" target="blank">healthcare industry project</a>.
 - 💼 Connect with me on  <a href="https://linkedin.com/in/gabrielbencomo" target="blank">linkedin</a>.
 
 <!-- ### Blogs posts -->
